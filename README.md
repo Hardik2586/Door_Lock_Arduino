@@ -36,3 +36,5 @@ Enter the wrong password thrice → the system locks you out with a buzzer alert
    - Buzzer beeps.  
    - LCD shows `"Wrong Password"`.  
 
+Here is the link to tinkerCad. https://www.tinkercad.com/things/jmkjTpPJxJE-dazzling-kup
+Simulate and upgrade it for yourself.
