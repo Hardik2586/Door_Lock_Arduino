@@ -27,13 +27,14 @@ Enter the wrong password thrice → the system locks you out with a buzzer alert
 ✅ **Smooth Servo Operation** – Realistic door movement  
 
 ## 📜 How It Works
-1. **Enter password** via the 4x4 keypad.  
-2. LCD shows `"Enter Password"`.  
-3. If correct:
+1. **Enter password** via the 4x4 keypad.
+2. with each click you hear a small beep sound. 
+3. LCD shows `"Enter Password"`.  
+4. If correct:
    - Servo rotates to **unlock** position.
    - LCD beeps in success sound.
    - LCD shows `"Door Opened"`.  
-4. If incorrect:
+5. If incorrect:
    - Buzzer beeps.  
    - LCD shows `"Wrong Password"`.  
 
