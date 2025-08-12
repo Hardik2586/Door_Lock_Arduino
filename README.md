@@ -31,6 +31,7 @@ Enter the wrong password thrice → the system locks you out with a buzzer alert
 2. LCD shows `"Enter Password"`.  
 3. If correct:
    - Servo rotates to **unlock** position.
+   - LCD beeps in success sound.
    - LCD shows `"Door Opened"`.  
 4. If incorrect:
    - Buzzer beeps.  
